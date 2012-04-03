@@ -1,0 +1,26 @@
+Descripción.
+------------
+
+El objeto de este proyecto es el estudio estadístico de los resultados de primera y segunda división de la Liga Española con el objeto de facilitar pronósticos de quinielas que tengan en cuenta dos factores:
+
+- FACTOR 1:
+En la web http://www.loteriasyapuestas.es/quiniela/ , que es la web de Loterias del Estado, es posible consultar el porcentaje de "1", de "X" y de "2" que han elegido todos los participantes del sorteo para cada partido, por ejemplo, "24% de unos, 37% de equis y 39% de doses para el Madid-Osasuna".
+
+Este dato está disponible antes del cierre de admisión de apuestas y aporta información acerca de cómo estiman los participantes en el sorteo que se reparten las probabilidades de ganar, empatar o perder.
+
+A partir de este dato se puede crear una aplicación que cree apuestas de quinielas que sean aleatorias pero a la vez respeten esa proporción de resultados para cada partido.
+
+- FACTOR 2:
+El histórico de resultados de los encuentros anteriores entre los equipos local y visitante pueden servir de guía a la hora de hacer pronósticos.
+
+Lógicamente, este factor ya ha sido tenido en cuenta en los resultados del FACTOR 1, pues muchos de los que han hecho apuestas han sopesado tanto los encuentros recientes como la clasificación en puntos de los equipos contendientes cuando llegan al partido.
+
+Sin embargo, es importante que este factor no esté integrado en el factor anterior para poder jugar con él.
+
+
+
+
+
+
+
+
