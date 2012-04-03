@@ -17,6 +17,7 @@ Lógicamente, este factor ya ha sido tenido en cuenta en los resultados del FACTO
 
 Sin embargo, es importante que este factor no esté integrado en el factor anterior para poder jugar con él.
 
+Edito luego
 
 
 
